@@ -1,5 +1,3 @@
-# PredictComposition
-
 # 📌 Composition Predictor
 
 ## 📖 Overview
