@@ -36,7 +36,7 @@ python main.py
 ## 📂 Project Structure
 
 ```
-CompositionPredictor/
+redictComposition/
 │── data/
 │   ├── MaterialsProject_Perovskite_data.csv   # Dataset
 │── main.py               # Entry Point
